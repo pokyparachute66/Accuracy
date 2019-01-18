@@ -915,6 +915,10 @@ button:focus, input:focus{outline: none;}
 }
 
 
+.display {
+    opacity: 0;
+}
+
 
 
 

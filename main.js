@@ -140,3 +140,6 @@ function clickEvent(){
 function closeEvent(){
   document.getElementById("add").classList.remove("active");
 }
+
+
+
